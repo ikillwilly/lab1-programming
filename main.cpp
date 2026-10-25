@@ -2,9 +2,7 @@
 #include <string>
 using namespace std;
 
-auto square(int x) -> int {
-    return x * x;
-}
+auto square(int x) -> int { return x * x; }
 
 int main() {
     cout << "Hello, World!" << endl;
